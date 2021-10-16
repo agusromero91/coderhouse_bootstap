@@ -1,0 +1,64 @@
+.logo{
+    width: auto;
+    height: 110px;
+}
+
+/* index */
+.index{
+    background: url(multimedia/home.jpeg) no-repeat center/cover;
+    height: 600px;
+    width: auto;
+}
+
+.subtitulo{
+    display: block;
+    text-align: center;
+    margin: 0.5em;
+    font-size: 0.7em;
+}
+
+.index-dos{
+    background: #611E42;
+    height: 140px;
+}
+
+.index-tres{
+    background: url(multimedia/foto1.jpeg) no-repeat center/cover;
+    min-height: 500px;
+    
+}
+
+#barrio{
+    background-color: rgba(1, 1, 1, 0.26) ;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer li{
+    list-style: none;
+}
+.redes{
+    color: #611F43;
+}
+
+/* Imagenes */
+.contenedor-gal-uno{
+    background-color: #D1E5D7;
+}
+
+.contenedor-gal-dos{
+    background-color: rgba(1, 1, 1, 0.06);
+    border-radius: 5px;
+}
+
+/* Contacto */
+.contacto{
+    background: url(multimedia/foto5.jpeg) no-repeat center/cover;
+    min-height: 600px;
+}
+
+.contacto-formulario{
+    background-color: rgba(1, 1, 1, 0.36);
+    border-radius: 5px;
+    max-width: 550px;
+}
